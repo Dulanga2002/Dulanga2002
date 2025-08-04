@@ -13,30 +13,40 @@
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-<table>
-<tr>
-<td>
-  <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</td>
-<td>
-  
-- 🎓 <b>Second Year Undergraduate</b> at <b>University of Moratuwa</b>  
-- 🔭 <b>Currently building:</b> Visitor Management System  
-- 🌱 <b>Learning:</b> React.js, Express, Tailwind, MongoDB  
-- 🤝 <b>Collaborating on:</b> Web & open-source projects  
-- 📫 <b>Reach me:</b> dulanganikeshala2@gmail.com
-
-</td>
-</tr>
+<table width="80%" cellpadding="10" cellspacing="0" style="border-collapse: collapse; margin: auto;">
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="320" style="border-radius: 12px;" />
+    </td>
+    <td width="55%" align="left" valign="top" style="font-size: 18px; line-height: 1.6;">
+      <h3 style="margin-top: 0;">🧠 About Me</h3>
+      <ul style="list-style:none; padding-left:0;">
+        <li>🎓 <b>Second Year Undergraduate</b> at <b>University of Moratuwa</b></li>
+        <li>🔭 <b>Currently building:</b> Visitor Management System</li>
+        <li>🌱 <b>Learning:</b> React.js, Express, Tailwind, MongoDB</li>
+        <li>🤝 <b>Collaborating on:</b> Web & open-source projects</li>
+        <li>📫 <b>Reach me:</b> <a href="mailto:dulanganikeshala2@gmail.com">dulanganikeshala2@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
+<br/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400" alt="Cool GitHub GIF" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" />
+
+<br><br>
+
+## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/dulanga-nikeshala" target="_blank" rel="noopener noreferrer" style="margin: 0 5px;">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -53,7 +63,6 @@
 
 </div>
 
-
 ---
 
 ## 💻 Tech Stack
@@ -67,12 +76,4 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧰 Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
-
----
-
+###
