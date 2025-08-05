@@ -76,4 +76,18 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###
+
+
+### 🧰 Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dulanga-nikeshala/dulanga-nikeshala/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dulanga-nikeshala/dulanga-nikeshala/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dulanga-nikeshala/dulanga-nikeshala/output/github-snake.svg" />
+</picture>
+
+
