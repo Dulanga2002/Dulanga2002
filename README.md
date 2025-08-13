@@ -23,7 +23,7 @@
     <td width="55%" align="left" valign="top" style="font-size: 18px; line-height: 1.6;">
       <h3 style="margin-top: 0;">🧠 About Me</h3>
       <ul style="list-style:none; padding-left:0;">
-        <li>🎓 <b>Second Year Undergraduate</b> at <b>University of Moratuwa</b></li>
+        <li>🎓 <b>Third Year Undergraduate</b> at <b>University of Moratuwa</b></li>
         <li>🔭 <b>Currently building:</b> Visitor Management System</li>
         <li>🌱 <b>Learning:</b> React.js, Express, Tailwind, MongoDB</li>
         <li>🤝 <b>Collaborating on:</b> Web & open-source projects</li>
